@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "Nadeem",
+      "lastname": "Sarwar",
+      "birthday": "2000-02-05",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Gemini",
+      "jobExperience": 2,
+      "salary": 10,
+      "profile": "profile-01.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "Groot",
+      "lastname": "Groot",
+      "birthday": "1999-10-10",
+      "gender": "m",
+      "education": "diploma",
+      "company": "MCU",
+      "jobExperience": 2,
+      "salary": "",
+      "profile": "1088cc7ee3e846496508a31dcfafffb3.jpg",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
